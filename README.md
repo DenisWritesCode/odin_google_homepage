@@ -5,9 +5,12 @@
 ## To-Do
 - [ ] Mobile responsiveness.
 - [ ] Finish Styling - Any final touches.
-- [ ] Footer.
-- [ ] Buttons and Text.
-- [ ] Searchbar - Icon and microphone.
-- [ ] Find the Image - Size don't matter.
-- [ ] Navbar.
+- [x] Footer.
+- [x] Buttons and Text.
+- [x] Searchbar - Icon and microphone.
+- [x] Find the Image - Size don't matter.
+- [x] Navbar.
 - [x] Layout all the HTML.
+
+## Do-Note.
++ For now the site is not responsive per-se, majorly because of the static files.
