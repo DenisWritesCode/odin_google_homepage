@@ -10,4 +10,4 @@
 - [ ] Searchbar - Icon and microphone.
 - [ ] Find the Image - Size don't matter.
 - [ ] Navbar.
-- [ ] Layout all the HTML.
+- [x] Layout all the HTML.
