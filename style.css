@@ -53,23 +53,35 @@ nav img {
 
 .input{
     width: 100%;
+    margin-top: 15px;
     position: relative;
+    display: flex;
 }
 .input .search, .microphone {
     position: absolute;
 }
 
 .input .search {
-    
+    position: relative;
+    right: 73%;
+    top: 2px;
+}
+
+.input .microphone {
+    position: relative;
+    right: 26%;
+    top: 2px;
 }
 
 #search {
-    margin: 10px;
-    border: 1px solid red;
-    height: 34px;
+    margin: 10px auto;
+    border: 1px solid #dfe1e5;
+    height: 45px;
     width: 100%;
     max-width: 584px;
     border-radius: 50px;
+    outline: none;
+    text-indent: 50px;
 }
 
 button {
@@ -93,6 +105,7 @@ button {
 
 .languages a {
     text-decoration: none;
+    padding-left: 10px;
 }
 
 footer {
