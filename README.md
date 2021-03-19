@@ -3,6 +3,9 @@
 - Using nothing but pure CSS3 and HTML5.
 - The Links, buttons and forms do not work.
 
+## Demo
+- This is GIF to contrast the [original google webpage](https://www.google.com) and the one I made.
+![GIF of finished site](Demo.gif)
 ## Product
 ![Finished Image](Product.png)
 
