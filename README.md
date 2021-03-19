@@ -5,6 +5,7 @@
 
 ## Demo
 - This is GIF to contrast the [original google webpage](https://www.google.com) and the one I made.
+- Here is the [live preview](https://deniswritescode.github.io/odin_google_homepage/)
 ![GIF of finished site](Demo.gif)
 ## Product
 ![Finished Image](Product.png)
